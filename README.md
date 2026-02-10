@@ -1,5 +1,5 @@
 # 🔐 CyberArk Secrets Management Labs
-Conjur Cloud • CyberArk Secrets Manager • Secrets Hub
+CyberArk Secrets Manager • Secrets Hub • Cloud & CI/CD Security
 
 ## Overview
 This repository contains hands-on, security-focused labs and reference implementations for CyberArk Secrets Manager, CyberArk Conjur Cloud, and Secrets Hub. The goal is to demonstrate secure, cloud-native secrets management patterns using identity-based authentication, zero-trust principles, and DevSecOps best practices.
@@ -8,7 +8,6 @@ This repository contains hands-on, security-focused labs and reference implement
 Most secrets management failures are design failures, not tooling failures. These labs demonstrate secure-by-design implementations to prevent credential leakage, secret sprawl, and over-permissioned access.
 
 ## Scope & Technologies
-- CyberArk Conjur Cloud
 - CyberArk Secrets Manager
 - CyberArk Secrets Hub
 - IAM & JWT authentication
